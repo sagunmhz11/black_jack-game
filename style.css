@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+    background-color: rgba(25, 112, 26, 0.747);
+    text-shadow: 0 0 3px black;
+    font-size: 30px;
+    color: white;
+    font-style: italic;
+}
+
+h1{
+    color: goldenrod;
+    font-style: normal;
+}
+
+
+
+button{
+    display: block;
+    margin: 10px auto;
+    color: rgba(25, 112, 26, 0.747);
+    background-color: goldenrod;
+    font-size: 20px;
+    padding: 5px;
+    text-shadow: 0 0 3px goldenrod;
+    font-weight: 800;
+}
+
